@@ -1,0 +1,2 @@
+g++ httpserver.cpp calc_pi.cpp  -std=c++14 -levent -pthread -Wall
+\nto install libevent: download last release from libevent.org and follow the instruction in README
